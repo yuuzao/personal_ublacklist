@@ -1,1 +1,5 @@
 *://*.debugcn.com/*
+*://*.dovov.com/*
+*://*.dentalencenter6.com/*
+*://*.bizadcharityrun.com/*
+*://*.mlog.club/*
