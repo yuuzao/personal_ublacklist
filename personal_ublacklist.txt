@@ -3,3 +3,4 @@
 *://*.dentalencenter6.com/*
 *://*.bizadcharityrun.com/*
 *://*.mlog.club/*
+*://*.ubuntuqa.com/*
